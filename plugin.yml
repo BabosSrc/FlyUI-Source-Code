@@ -1,0 +1,9 @@
+name: FlyUI
+main: MulkiAqi192\FlyUI\Main
+author: MulkiAqi192
+api: [3.12.0, 3.12.2]
+version: 1.0
+
+commands:
+  fly:
+    description: "Toogle Enable/Disable fly mode!"
